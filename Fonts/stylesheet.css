@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Grold Rounded Slim ExtraBlack';
+    src: url('GroldRoundedSlim-ExtBlkIta.eot');
+    src: local('Grold Rounded Slim ExtraBlack Italic'), local('GroldRoundedSlim-ExtBlkIta'),
+        url('GroldRoundedSlim-ExtBlkIta.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtBlkIta.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtBlkIta.woff') format('woff'),
+        url('GroldRoundedSlim-ExtBlkIta.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim ExtraBlack';
+    src: url('GroldRoundedSlim-ExtraBlack.eot');
+    src: local('Grold Rounded Slim ExtraBlack'), local('GroldRoundedSlim-ExtraBlack'),
+        url('GroldRoundedSlim-ExtraBlack.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtraBlack.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtraBlack.woff') format('woff'),
+        url('GroldRoundedSlim-ExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-BlackItalic.eot');
+    src: local('Grold Rounded Slim Black Italic'), local('GroldRoundedSlim-BlackItalic'),
+        url('GroldRoundedSlim-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-BlackItalic.woff2') format('woff2'),
+        url('GroldRoundedSlim-BlackItalic.woff') format('woff'),
+        url('GroldRoundedSlim-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Bold.eot');
+    src: local('Grold Rounded Slim Bold'), local('GroldRoundedSlim-Bold'),
+        url('GroldRoundedSlim-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Bold.woff2') format('woff2'),
+        url('GroldRoundedSlim-Bold.woff') format('woff'),
+        url('GroldRoundedSlim-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-ExtraLight.eot');
+    src: local('Grold Rounded Slim ExtraLight'), local('GroldRoundedSlim-ExtraLight'),
+        url('GroldRoundedSlim-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtraLight.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtraLight.woff') format('woff'),
+        url('GroldRoundedSlim-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-MediumItalic.eot');
+    src: local('Grold Rounded Slim Medium Italic'), local('GroldRoundedSlim-MediumItalic'),
+        url('GroldRoundedSlim-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-MediumItalic.woff2') format('woff2'),
+        url('GroldRoundedSlim-MediumItalic.woff') format('woff'),
+        url('GroldRoundedSlim-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Light.eot');
+    src: local('Grold Rounded Slim Light'), local('GroldRoundedSlim-Light'),
+        url('GroldRoundedSlim-Light.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Light.woff2') format('woff2'),
+        url('GroldRoundedSlim-Light.woff') format('woff'),
+        url('GroldRoundedSlim-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-ExtLtIta.eot');
+    src: local('Grold Rounded Slim ExtraLight Italic'), local('GroldRoundedSlim-ExtLtIta'),
+        url('GroldRoundedSlim-ExtLtIta.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtLtIta.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtLtIta.woff') format('woff'),
+        url('GroldRoundedSlim-ExtLtIta.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-BoldItalic.eot');
+    src: local('Grold Rounded Slim Bold Italic'), local('GroldRoundedSlim-BoldItalic'),
+        url('GroldRoundedSlim-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-BoldItalic.woff2') format('woff2'),
+        url('GroldRoundedSlim-BoldItalic.woff') format('woff'),
+        url('GroldRoundedSlim-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-ExtraBold.eot');
+    src: local('Grold Rounded Slim ExtraBold'), local('GroldRoundedSlim-ExtraBold'),
+        url('GroldRoundedSlim-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtraBold.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtraBold.woff') format('woff'),
+        url('GroldRoundedSlim-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Italic.eot');
+    src: local('Grold Rounded Slim Italic'), local('GroldRoundedSlim-Italic'),
+        url('GroldRoundedSlim-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Italic.woff2') format('woff2'),
+        url('GroldRoundedSlim-Italic.woff') format('woff'),
+        url('GroldRoundedSlim-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Black.eot');
+    src: local('Grold Rounded Slim Black'), local('GroldRoundedSlim-Black'),
+        url('GroldRoundedSlim-Black.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Black.woff2') format('woff2'),
+        url('GroldRoundedSlim-Black.woff') format('woff'),
+        url('GroldRoundedSlim-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-ExtBdIta.eot');
+    src: local('Grold Rounded Slim ExtraBold Italic'), local('GroldRoundedSlim-ExtBdIta'),
+        url('GroldRoundedSlim-ExtBdIta.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ExtBdIta.woff2') format('woff2'),
+        url('GroldRoundedSlim-ExtBdIta.woff') format('woff'),
+        url('GroldRoundedSlim-ExtBdIta.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-LightItalic.eot');
+    src: local('Grold Rounded Slim Light Italic'), local('GroldRoundedSlim-LightItalic'),
+        url('GroldRoundedSlim-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-LightItalic.woff2') format('woff2'),
+        url('GroldRoundedSlim-LightItalic.woff') format('woff'),
+        url('GroldRoundedSlim-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-ThinItalic.eot');
+    src: local('Grold Rounded Slim Thin Italic'), local('GroldRoundedSlim-ThinItalic'),
+        url('GroldRoundedSlim-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-ThinItalic.woff2') format('woff2'),
+        url('GroldRoundedSlim-ThinItalic.woff') format('woff'),
+        url('GroldRoundedSlim-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Regular.eot');
+    src: local('Grold Rounded Slim'), local('GroldRoundedSlim-Regular'),
+        url('GroldRoundedSlim-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Regular.woff2') format('woff2'),
+        url('GroldRoundedSlim-Regular.woff') format('woff'),
+        url('GroldRoundedSlim-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim SemiLight';
+    src: url('GroldRoundedSlim-SemLtIta.eot');
+    src: local('Grold Rounded Slim SemiLight Italic'), local('GroldRoundedSlim-SemLtIta'),
+        url('GroldRoundedSlim-SemLtIta.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-SemLtIta.woff2') format('woff2'),
+        url('GroldRoundedSlim-SemLtIta.woff') format('woff'),
+        url('GroldRoundedSlim-SemLtIta.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Thin.eot');
+    src: local('Grold Rounded Slim Thin'), local('GroldRoundedSlim-Thin'),
+        url('GroldRoundedSlim-Thin.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Thin.woff2') format('woff2'),
+        url('GroldRoundedSlim-Thin.woff') format('woff'),
+        url('GroldRoundedSlim-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim';
+    src: url('GroldRoundedSlim-Medium.eot');
+    src: local('Grold Rounded Slim Medium'), local('GroldRoundedSlim-Medium'),
+        url('GroldRoundedSlim-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-Medium.woff2') format('woff2'),
+        url('GroldRoundedSlim-Medium.woff') format('woff'),
+        url('GroldRoundedSlim-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grold Rounded Slim SemiLight';
+    src: url('GroldRoundedSlim-SemiLight.eot');
+    src: local('Grold Rounded Slim SemiLight'), local('GroldRoundedSlim-SemiLight'),
+        url('GroldRoundedSlim-SemiLight.eot?#iefix') format('embedded-opentype'),
+        url('GroldRoundedSlim-SemiLight.woff2') format('woff2'),
+        url('GroldRoundedSlim-SemiLight.woff') format('woff'),
+        url('GroldRoundedSlim-SemiLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
