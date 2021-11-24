@@ -137,9 +137,12 @@ h2,h1
 {
   margin-top: 20px;
   border-radius: 50%;
-  width: 300px;
-  height: 300px;
+  width:30%;
+  /* height:auto; */
+  /* width: 30%;*/
+  height: 30%;
   border: 3.5px solid #4d472d;
+
 }
 .profile
 {
